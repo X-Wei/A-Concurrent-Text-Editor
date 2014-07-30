@@ -1,0 +1,25 @@
+<uml>
+   <greenVersion="30100"/>
+   <type>
+      <name="=INF431Projet/src<projet{Client.java[Client"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="0"/>
+      <y="0"/>
+   </type>
+   <type>
+      <name="=INF431Projet/src<projet{ClientJFrame.java[ClientJFrame"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="282"/>
+      <y="-9"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.composition.CompositionPart"/>
+      <sourceType="=INF431Projet/src<projet{Client.java[Client"/>
+      <targetType="=INF431Projet/src<projet{ClientJFrame.java[ClientJFrame"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+
